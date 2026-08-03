@@ -31,7 +31,7 @@ targets = [
 ]
 
 line_products = [
-    "hcn10",
+    "hcn",
 ]
 interf_configs = [
 #    "7m",
@@ -63,7 +63,7 @@ do_flatmaps = True  # requires flat masks
 # You should not need to edit below here
 
 # Setup logger
-ppl.setup_logger(level="DEBUG", logfile=None)
+ppl.setup_logger(level="DEBUG", logfile="logger.txt")
 casalog.filter("INFO")
 casalog.showconsole(True)
 

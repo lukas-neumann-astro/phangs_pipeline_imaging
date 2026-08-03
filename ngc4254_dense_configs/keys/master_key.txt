@@ -176,7 +176,7 @@
 
 # Locations
 
-key_dir        	    	/nfs/home/lneumann/reduction/alma_data_reduction/imaging/ngc4254/phangs_imaging_scripts/keys/
+key_dir        	    	/nfs/home/lneumann/reduction/alma_data_reduction/imaging/ngc4254/ngc4254_dense_configs/keys/
 cleanmask_root		/nfs/home/lneumann/reduction/alma_data_reduction/cleanmasks/
 imaging_root		/nfs/home/lneumann/reduction/alma_data_reduction/imaging/ngc4254/products/imaging/
 postprocess_root	/nfs/home/lneumann/reduction/alma_data_reduction/imaging/ngc4254/products/postprocess/
