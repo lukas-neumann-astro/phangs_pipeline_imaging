@@ -47,7 +47,7 @@
 ##########################################################################
 
 all      hcn         all           cube_mosaic.clean
-# all      hcop        all           cube_mosaic.clean
+all      hcop        all           cube_mosaic.clean
 # all      cs          all           cube_mosaic.clean
 # all      hn13c       all           cube_mosaic.clean
 # all      h13cop      all           cube_mosaic.clean

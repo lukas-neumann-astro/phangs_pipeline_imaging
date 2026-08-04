@@ -31,7 +31,8 @@ targets = [
 ]
 
 line_products = [
-    "hcn",
+#    "hcn",
+    "hcop",
 ]
 interf_configs = [
 #    "7m",
