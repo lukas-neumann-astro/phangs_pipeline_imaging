@@ -26,12 +26,11 @@ do_release = False
 
 # Targets to process
 targets = [
-#    "ngc4321",
-    "ngc4254"
+    "ngc4254",
 ]
 
 line_products = [
-#    "hcn",
+    "hcn",
     "hcop",
 ]
 interf_configs = [
